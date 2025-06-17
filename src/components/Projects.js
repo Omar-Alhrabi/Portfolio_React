@@ -22,7 +22,7 @@ const Projects = () => {
       image: "./pic/Master_piece.png",
       title: "Laravel Masterpiece",
       description: "Solo developed full-stack application built from scratch using Laravel. My final project showcasing all acquired skills.",
-      githubLink: "https://github.com/yourusername/laravel-masterpiece",
+      githubLink: "https://github.com/Omar-Alhrabi/MasterPiece",
       technologies: ["Laravel", "MySQL", "Bootstrap", "JavaScript", "HTML & CSS"]
     } ,
     {
